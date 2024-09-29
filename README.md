@@ -1,4 +1,4 @@
-# L&T Edutech Project Image recognization using CNN
+# L&T Edutech Project Object recognization in Images using CNN
 AIM OF THE EXPERIMENT:-
      Develop a CNN Model to recognize the object in image using CIFAR-10 dataset and check the accuracy,sensitivity.
      
