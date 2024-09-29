@@ -3,7 +3,7 @@ AIM OF THE EXPERIMENT:-
      Develop a CNN Model to recognize the object in image using CIFAR-10 dataset and check the accuracy,sensitivity.
      
 METRICS OF THE PROJECT
-     Accuracy: 0.6949
+     Accuracy: 0.7549
      Precision: 0.7095
      Recall: 0.6949
      F1 Score: 0.6974
